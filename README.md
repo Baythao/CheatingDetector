@@ -2,9 +2,6 @@
 
 Hệ thống Flask + YOLO26X + ByteTrack + YuNet + SFace + Head Pose + Temporal Event + Dashboard.
 
-## Tải yolo26x.pt vào models
-python -c "from ultralytics import YOLO; YOLO('yolo26x.pt').save('models/yolo26x.pt')"
-
 ## Models
 Đặt vào `models/`:
 - yolo26x.pt
